@@ -8,11 +8,9 @@ Excel and Power Bi files is not possible, so I'm uploading screenshots of them.
 
 **Excel file:**
 
-
-<img width="851" alt="Excel1" src="https://github.com/strze-lec/usage-of-job-boards/assets/137927551/69d49be1-6163-4363-b312-62dd015eb42f">
+<img width="850" alt="Excel1" src="https://github.com/strze-lec/usage-of-job-boards/assets/137927551/69d49be1-6163-4363-b312-62dd015eb42f">
 <img width="850" alt="Excel2" src="https://github.com/strze-lec/usage-of-job-boards/assets/137927551/95b1f2b4-d977-47d3-b479-831778465525">
-<img width="850" alt="Excel3" src="https://github.com/strze-lec/usage-of-job-boards/assets/137927551/edcb1506-c624-4e0d-a50c-ddafbaff4931">
-
+<img width="850" alt="Excel3" src="https://github.com/strze-lec/usage-of-job-boards/assets/137927551/74676717-5a17-4f2f-951c-762d5aee24a2">
 
 
 **Power Bi visualizations:**
